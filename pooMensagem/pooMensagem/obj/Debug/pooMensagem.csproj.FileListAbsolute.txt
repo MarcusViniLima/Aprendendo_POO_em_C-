@@ -1,0 +1,8 @@
+D:\programação\ProjetosC#\pooMensagem\pooMensagem\bin\Debug\pooMensagem.exe.config
+D:\programação\ProjetosC#\pooMensagem\pooMensagem\bin\Debug\pooMensagem.exe
+D:\programação\ProjetosC#\pooMensagem\pooMensagem\bin\Debug\pooMensagem.pdb
+D:\programação\ProjetosC#\pooMensagem\pooMensagem\obj\Debug\pooMensagem.csproj.AssemblyReference.cache
+D:\programação\ProjetosC#\pooMensagem\pooMensagem\obj\Debug\pooMensagem.csproj.SuggestedBindingRedirects.cache
+D:\programação\ProjetosC#\pooMensagem\pooMensagem\obj\Debug\pooMensagem.csproj.CoreCompileInputs.cache
+D:\programação\ProjetosC#\pooMensagem\pooMensagem\obj\Debug\pooMensagem.exe
+D:\programação\ProjetosC#\pooMensagem\pooMensagem\obj\Debug\pooMensagem.pdb

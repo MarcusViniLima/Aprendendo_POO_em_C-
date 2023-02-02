@@ -1,0 +1,8 @@
+D:\programação\ProjetosC#\AHoraDoPitch\AHoraDoPitch\bin\Debug\AHoraDoPitch.exe.config
+D:\programação\ProjetosC#\AHoraDoPitch\AHoraDoPitch\bin\Debug\AHoraDoPitch.exe
+D:\programação\ProjetosC#\AHoraDoPitch\AHoraDoPitch\bin\Debug\AHoraDoPitch.pdb
+D:\programação\ProjetosC#\AHoraDoPitch\AHoraDoPitch\obj\Debug\AHoraDoPitch.csproj.AssemblyReference.cache
+D:\programação\ProjetosC#\AHoraDoPitch\AHoraDoPitch\obj\Debug\AHoraDoPitch.csproj.SuggestedBindingRedirects.cache
+D:\programação\ProjetosC#\AHoraDoPitch\AHoraDoPitch\obj\Debug\AHoraDoPitch.csproj.CoreCompileInputs.cache
+D:\programação\ProjetosC#\AHoraDoPitch\AHoraDoPitch\obj\Debug\AHoraDoPitch.exe
+D:\programação\ProjetosC#\AHoraDoPitch\AHoraDoPitch\obj\Debug\AHoraDoPitch.pdb

@@ -1,8 +1,10 @@
 ﻿using System;
+using System.Collections;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using System.Windows.Markup;
 
 namespace HelloWorld
 {
@@ -42,6 +44,35 @@ namespace HelloWorld
                 numeros[i] = i;
                 Console.WriteLine(numeros[i]);
             }
+            Console.WriteLine("------------------- FUNÇÕES ----------- ");
+            String AlterarGeneroAnimal(String generoAlterado)
+            {
+                animal2.setGenero(generoAlterado);
+                return animal2.ToString();
+            }
+            String generoAlterad = Console.ReadLine();
+            Console.WriteLine(AlterarGeneroAnimal(generoAlterad));
+            Console.WriteLine("------------------- ARRAYS ----------- ");
+            var animais = new ArrayList();
+            animais.Add(animal2);
+            foreach(var value in animais)
+            {
+                Console.WriteLine(value);
+            }
+            Console.WriteLine("------------------- ARRAYS + FUNÇAO ----------- ");
+            void PercorrerArray() {
+                Console.WriteLine("Digite a quantidade");
+                String quant = Console.ReadLine();
+                foreach (Animal value in animais)
+                {
+                    if (value.getGenero().Equals(quant))
+                    {
+                        Console.WriteLine(value.ToString());
+                    }
+                    else { Console.WriteLine("ERRO"); }
+                }
+            }
+            PercorrerArray();
         }
     }
     class Animal
@@ -95,4 +126,6 @@ namespace HelloWorld
         }
 
     }
+
+   
 }
